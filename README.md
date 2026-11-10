@@ -12,7 +12,7 @@ This repository contains a machine learning workflow that explores the Spotify T
 * **Model Performance:** While the dataset presented challenges due to overlapping feature distributions, the classification model performed better than an intercept-only baseline model.
 
 ## File Structure
-* `Cutshall_Matthew_Main.ipynb` (or `.html`) - The primary Jupyter notebook containing the complete EDA, feature engineering, and modeling steps.
+* `Spotify_Main.ipynb` (or `.pdf`) - The primary Jupyter notebook containing the complete EDA, feature engineering, and modeling steps.
 
 ## Technologies Used
 * Python (Pandas, NumPy, Matplotlib, Seaborn)
